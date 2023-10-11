@@ -1,5 +1,5 @@
 <h1 align="center">Hello  there 👋</h1>
-<h2 align="center">I'am Rajkumar G , **ML developer with an obsession with datas**😄</h2>
+<h2 align="center">I'am Rajkumar G , <b></b>ML developer with an obsession with data </b>😄</h2>
 
 
 🔭 I’m currently working on **Traffic collision detection project with DL**.
