@@ -8,13 +8,13 @@
 
 languages known :
 
-- Python <p>"   "</p><p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>"</p>
+- Python <p>   </p><p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
   
-- Java
+- Java   <p>   </p><p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="java" width="40" height="40"/>
   
-- C#
+- C#    <p>   </p><p align="left"><img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="java" width="40" height="40"/>
   
-- HTML , CSS , Jsvascript
+- HTML , CSS , Jsvascript <p>   </p><p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p>
 <!--
 **lonewolfrk/lonewolfrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
